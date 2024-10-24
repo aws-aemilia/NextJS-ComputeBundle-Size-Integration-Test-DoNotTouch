@@ -2,7 +2,7 @@
 
 ## What is this repo?
 
-- Uses the `latest` version of next.js always.
+- Uses the `15.0.1` version of next.js always.
 - No package-lock.json on purpose to avoid pinning a specific version.
 - The index page shows the actual version of Next.js deployed. 
 - A directory of features is located by visiting the index page. 
